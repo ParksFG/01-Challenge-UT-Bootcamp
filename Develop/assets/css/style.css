@@ -50,6 +50,8 @@ p {
     font-size: 16px;
 }
 
+/* Primary image upon landing */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -68,6 +70,8 @@ p {
     float: right;
     margin-left: 25px;
 }
+
+/* Main Section under header */
 
 .content {
     width: 75%;
@@ -92,6 +96,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/*Sidebar to the right under header */
 
 .benefits {
     margin-right: 20px;
@@ -119,6 +125,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Footer */
 
 .footer {
     padding: 30px;
