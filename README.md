@@ -1,15 +1,16 @@
-# UT Bootcamp Challenge 1
+# Horiseon HTML/CSS Refractor
 
 ## Description
 
-This is my code for challenge 1:
+This project was taking a website and refactoring it.  My goals are to increase profieciency in understanding html/css structure and honing the ability to condense css documents so they don't get too heavy.  Another aspect of this project is to work on accessbility.  This includes alt tags for images, and making sure all the code is coherent.  On completion I feel more competent with these skills.
 
-I will be going into the code for a SEO website and making it follow accessibility standards.
+## Usage
 
-## Preview
+> ![Website Preview](horiseonWebsite.jpg)
+>
+> The Website can be viewed in browser [**HERE!**](https://parksfg.github.io/01-HTML-CSS-Refractor/)
 
-The Website can be viewed [HERE!](https://parksfg.github.io/01-HTML-CSS-Refractor/)
-
+---
 
 
 
